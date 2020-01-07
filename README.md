@@ -7,14 +7,14 @@
 ┣ .gitignore  
 ┣ config.py  
 ┣ instance/  
-│     └ config.py  
+│    &emsp;&emsp;└ config.py  
 └ app   
-   ┣ \_\_init__.py  
-   ┣ forms/  
-   ┣ models/   
-   ┣ views/   
-   ┣ statics/  
-   └ templates/ 
+&emsp;&ensp;┣ \_\_init__.py  
+&emsp;&ensp;┣ forms/  
+&emsp;&ensp;┣ models/   
+&emsp;&ensp;┣ views/   
+&emsp;&ensp;┣ statics/  
+&emsp;&ensp;└ templates/ 
 
 
 
